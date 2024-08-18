@@ -7,6 +7,9 @@ This is the source code of the research **"MetaLeak: Assessing Image Metadata Le
 
 The **MetaLeak** system is used to investigate whether Android apps send sensitive metadata when users share/send/upload their image to the Internet by using Hybrid analysis.
 
+Threat model illustrated as figure below
+<img src="https://github.com/research-mobile-security/MetaLeak/blob/main/project-image/threat-model-2.png">
+
 ## 3. System architecture
 
 **MetaLeak** is a 100% software solution aiming to leverage the Android Virtual Device (AVD) instead of physical phones to enhance flexibility and reduce costs. However, our approach also supports real devices.
