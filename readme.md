@@ -3,8 +3,7 @@
 ## 1. Citation
 
 If you use MetaLeak results, please cite the following information. Thank you.
-## Paper Link
-[MetaLeak on IEEE Xplore](https://ieeexplore.ieee.org/document/10912621)
+### Paper Link [MetaLeak on IEEE Xplore](https://ieeexplore.ieee.org/document/10912621)
 ```@INPROCEEDINGS{10912621,
   author={Nguyen, Tran Thanh Lam and Carminati, Barbara and Ferrari, Elena},
   booktitle={2024 IEEE/ACS 21st International Conference on Computer Systems and Applications (AICCSA)}, 
