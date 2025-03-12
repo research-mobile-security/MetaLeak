@@ -1,7 +1,21 @@
 
 # MetaLeak: Assessing Image Metadata Leakage Through Side-Channel in Android Apps
 ## 1. Citation
+
 If you use MetaLeak results, please cite the following information. Thank you.
+## Paper Link
+[MetaLeak on IEEE Xplore](https://ieeexplore.ieee.org/document/10912621)
+```@INPROCEEDINGS{10912621,
+  author={Nguyen, Tran Thanh Lam and Carminati, Barbara and Ferrari, Elena},
+  booktitle={2024 IEEE/ACS 21st International Conference on Computer Systems and Applications (AICCSA)}, 
+  title={MetaLeak: Assessing Image Metadata Leakage in Android Apps}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Privacy;Operating systems;Metadata;Media;Protection;Computer security;Videos;Global Positioning System;privacy;security;metadata;android},
+  doi={10.1109/AICCSA63423.2024.10912621}}
+```
 ## 2. Introduction
 This is the source code of the research **"MetaLeak: Assessing Image Metadata Leakage Through Side-Channel in Android Apps"** project.
 
